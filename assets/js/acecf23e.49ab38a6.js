@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgdg_bootcamp_docs=self.webpackChunkgdg_bootcamp_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/gdg-bootcamp/blog","blogTitle":"Blog","authorsListPath":"/gdg-bootcamp/blog/authors"}')}}]);
